@@ -24,8 +24,6 @@ Currently working with:
 ### Monky Soluções
 Digital solutions, landing pages, SaaS products and business automation.
 
-### Monky Pages
-SaaS platform for creating and publishing landing pages.
 
 ### RoutePilot
 Route planning and scheduling solution for field service teams.
@@ -33,4 +31,4 @@ Route planning and scheduling solution for field service teams.
 ## 📫 Contact
 
 - GitHub: @Brendontailor
-- Website: https://monkysolucoes.vercel.app
+
