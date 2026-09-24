@@ -6,29 +6,104 @@
 
 I'm a software developer focused on building web applications, SaaS products and automation solutions.
 
-Currently working with:
+I enjoy creating practical solutions, improving processes through technology and developing products that solve real business problems.
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Node.js
-- Express
-- PostgreSQL
-- Prisma
-- Python
-- Git & GitHub
+Currently working with modern web development, backend APIs, databases, automation and SaaS projects.
+
+---
+
+## 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+---
 
 ## 🛠️ Projects
 
-### Monky Soluções
-Digital solutions, landing pages, SaaS products and business automation.
+### 🐒 Monky Soluções
 
+Digital solutions focused on helping businesses improve their online presence and automate processes.
 
-### RoutePilot
+Projects include:
+
+- Landing pages
+- SaaS platforms
+- Business automation
+- Analytics integrations
+- Web systems
+
+🌐 Website: [Monky Soluções](https://monkysolucoes.vercel.app)
+
+---
+
+### 🗺️ RoutePilot
+
 Route planning and scheduling solution for field service teams.
+
+Main features:
+
+- Route organization
+- Service scheduling
+- Multiple address comparison
+- Technician route optimization
+- Map visualization using Leaflet and OpenStreetMap
+
+🔗 Repository: [RoutePilot](https://github.com/Brendontailor/Routpilotes)
+
+---
+
+## 💡 What I'm building
+
+Currently focused on building:
+
+- SaaS products
+- Business automation tools
+- Web applications
+- APIs and backend systems
+- Solutions for real-world operational problems
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Brendontailor&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendontailor&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
 
 ## 📫 Contact
 
-- GitHub: @Brendontailor
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Brendontailor)
 
+[![Website](https://img.shields.io/badge/Monky_Soluções-000?style=for-the-badge&logo=googlechrome)](https://monkysolucoes.vercel.app)
+
+---
+
+<p align="center">
+  <i>Building solutions, learning every day and turning ideas into real products.</i>
+</p>
