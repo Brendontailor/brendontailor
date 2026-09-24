@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Brendon Tailor
 
-<!--
-**Brendontailor/brendontailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer  
+🎓 Systems Analysis and Development Student  
+🚀 Co-Founder @ Monky Soluções  
+📍 Pelotas, RS - Brazil  
 
-Here are some ideas to get you started:
+## 🚀 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer focused on building web applications, SaaS products and automation solutions.
+
+Currently working with:
+
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Node.js
+- Express
+- PostgreSQL
+- Prisma
+- Python
+- Git & GitHub
+
+## 🛠️ Projects
+
+### Monky Soluções
+Digital solutions, landing pages, SaaS products and business automation.
+
+
+### RoutePilot
+Route planning and scheduling solution for field service teams.
+
+## 📫 Contact
+
+- GitHub: @Brendontailor
