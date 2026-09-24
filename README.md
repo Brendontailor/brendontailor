@@ -34,21 +34,34 @@ Currently working with modern web development, backend APIs, databases, automati
 
 ---
 
-## 🛠️ Projects
+## ⚡ Focus Areas
+
+- Full Stack Web Development
+- SaaS Development
+- REST APIs
+- Business Automation
+- Database Design
+- Analytics Integration
+- Process Optimization
+- Web Application Architecture
+
+---
+
+## 🛠️ Featured Projects
 
 ### 🐒 Monky Soluções
 
 Digital solutions focused on helping businesses improve their online presence and automate processes.
 
-Projects include:
+**Main areas:**
 
 - Landing pages
 - SaaS platforms
 - Business automation
 - Analytics integrations
-- Web systems
+- Custom web systems
 
-🌐 Website: [Monky Soluções](https://monkysolucoes.vercel.app)
+🌐 [Visit Monky Soluções](https://monkysolucoes.vercel.app)
 
 ---
 
@@ -56,27 +69,57 @@ Projects include:
 
 Route planning and scheduling solution for field service teams.
 
-Main features:
+**Main features:**
 
 - Route organization
 - Service scheduling
 - Multiple address comparison
 - Technician route optimization
-- Map visualization using Leaflet and OpenStreetMap
+- Map visualization
+- Leaflet + OpenStreetMap integration
 
-🔗 Repository: [RoutePilot](https://github.com/Brendontailor/Routpilotes)
+🔗 [View Repository](https://github.com/Brendontailor/Routpilotes)
 
 ---
 
 ## 💡 What I'm building
 
-Currently focused on building:
+Currently focused on developing solutions involving:
 
 - SaaS products
-- Business automation tools
+- Business automation
 - Web applications
-- APIs and backend systems
-- Solutions for real-world operational problems
+- Backend APIs
+- Operational systems
+- Analytics
+- Tools that solve real-world business problems
+
+---
+
+## 📚 Currently learning
+
+I'm continuously improving my knowledge in:
+
+- Software Architecture
+- Advanced TypeScript
+- Backend scalability
+- System Design
+- Cloud Deployment
+- Database Architecture
+- API Design
+
+---
+
+## 🎯 Goals
+
+My current goals are to:
+
+- Grow as a Full Stack Developer
+- Build scalable SaaS products
+- Improve software architecture knowledge
+- Create useful automation solutions
+- Work on products that solve real business problems
+- Continue building and growing Monky Soluções
 
 ---
 
@@ -91,5 +134,5 @@ Currently focused on building:
 ---
 
 <p align="center">
-  <i>Building solutions, learning every day and turning ideas into real products.</i>
+  <b>Building solutions, learning every day and turning ideas into real products.</b>
 </p>
