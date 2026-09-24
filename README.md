@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Brendon Tailor - Software Developer" />
+</p>
+
 # 👋 Hi, I'm Brendon Tailor
 
 💻 Software Developer  
