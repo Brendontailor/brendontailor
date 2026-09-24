@@ -80,25 +80,11 @@ Currently focused on building:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Brendontailor&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendontailor&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-  />
-</p>
-
----
-
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Brendontailor)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brendon-tailor-404144284)
 
 [![Website](https://img.shields.io/badge/Monky_Soluções-000?style=for-the-badge&logo=googlechrome)](https://monkysolucoes.vercel.app)
 
