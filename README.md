@@ -2,137 +2,78 @@
   <img src="./banner.png" width="100%" alt="Brendon Tailor - Software Developer" />
 </p>
 
-## 🚀 About me
+# Hi, I'm Brendon Tailor
 
-I'm a software developer focused on building web applications, SaaS products and automation solutions.
+Full-stack developer and co-founder of **Monky Soluções**. I build SaaS products, custom systems and web applications for real businesses.
 
-I enjoy creating practical solutions, improving processes through technology and developing products that solve real business problems.
+I work across product, backend and frontend — from data modeling and APIs to interfaces that people use every day.
 
-Currently working with modern web development, backend APIs, databases, automation and SaaS projects.
-
----
-
-## 🧰 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+<p align="left">
+  <a href="https://github.com/Brendontailor/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/brendon-tailor-404144284">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Focus Areas
+## What I do
 
-- Full Stack Web Development
-- SaaS Development
-- REST APIs
-- Business Automation
-- Database Design
-- Analytics Integration
-- Process Optimization
-- Web Application Architecture
+- **SaaS products:** multi-tenant platforms with company isolation, roles and white-label operation.
+- **Business systems:** POS, inventory, purchases, finance, reports and audit.
+- **Full-stack web:** React, Next.js, Node.js, Express, PostgreSQL and Prisma.
+- **Operational tools:** PWAs with maps, search, offline support and field workflows.
+- **Product work:** from data modeling and API design to UI, deploy and iteration.
 
 ---
 
-## 🛠️ Featured Projects
+## Featured work
 
-### 🐒 Monky Soluções
+| Project | What it is | Links |
+| --- | --- | --- |
+| **Sah Açaí & Cia** | WhatsApp ordering and financial dashboard for a real food retailer. | [Case](https://github.com/Brendontailor/portfolio/blob/main/cases/sah-acai.md) |
+| **Monky Food** | Multi-tenant SaaS for food-service stores, with Sah Açaí as the first operation. | [Case](https://github.com/Brendontailor/portfolio/blob/main/cases/monky-food.md) |
+| **Monky Tech** | Management SaaS for electronics and phone-case stores: POS, stock, finance and audit. | [Case](https://github.com/Brendontailor/portfolio/blob/main/cases/monky-tech.md) |
+| **RoutePilot** | Field-service mapping and route-planning PWA. | [Live](https://routpilotes.vercel.app) · [Case](https://github.com/Brendontailor/portfolio/blob/main/cases/routepilot.md) |
+| **PortCont** | Smart comparison of client bases in PDF, Excel and CSV. | [Live](https://portcont.vercel.app) · [Case](https://github.com/Brendontailor/portfolio/blob/main/cases/portcont.md) |
+| **Dropzone** | Streetwear e-commerce built in collaboration with Leonardo Rosler. | [Case](https://github.com/Brendontailor/portfolio/blob/main/cases/dropzone.md) |
 
-Digital solutions focused on helping businesses improve their online presence and automate processes.
-
-**Main areas:**
-
-- Landing pages
-- SaaS platforms
-- Business automation
-- Analytics integrations
-- Custom web systems
-
-🌐 [Visit Monky Soluções](https://monkysolucoes.com.br))
+More context, screenshots and technical details are in the **[portfolio repository](https://github.com/Brendontailor/portfolio)**.
 
 ---
 
-### 🗺️ RoutePilot
+## Currently building
 
-Route planning and scheduling solution for field service teams.
-
-**Main features:**
-
-- Route organization
-- Service scheduling
-- Multiple address comparison
-- Technician route optimization
-- Map visualization
-- Leaflet + OpenStreetMap integration
-
-🔗 [View Repository](https://github.com/Brendontailor/Routpilotes)
+- **Monky Food** — a multi-tenant SaaS for food service.
+- **Monky Tech** — management software for electronics and phone-case retail.
+- Better architecture, stronger TypeScript and products that solve real operational problems.
 
 ---
 
-## 💡 What I'm building
+## Tech stack
 
-Currently focused on developing solutions involving:
-
-- SaaS products
-- Business automation
-- Web applications
-- Backend APIs
-- Operational systems
-- Analytics
-- Tools that solve real-world business problems
-
----
-
-## 📚 Currently learning
-
-I'm continuously improving my knowledge in:
-
-- Software Architecture
-- Advanced TypeScript
-- Backend scalability
-- System Design
-- Cloud Deployment
-- Database Architecture
-- API Design
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs)
+![Vite](https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-0f172a?style=for-the-badge&logo=express)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwindcss)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
 
 ---
 
-## 🎯 Goals
+## Contact
 
-My current goals are to:
-
-- Grow as a Full Stack Developer
-- Build scalable SaaS products
-- Improve software architecture knowledge
-- Create useful automation solutions
-- Work on products that solve real business problems
-- Continue building and growing Monky Soluções
-
----
-
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Brendontailor)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/brendon-tailor-404144284)
-
-[![Website](https://img.shields.io/badge/Monky_Soluções-000?style=for-the-badge&logo=googlechrome)](https://monkysolucoes.vercel.app)
-
----
+- GitHub: [@Brendontailor](https://github.com/Brendontailor)
+- LinkedIn: [brendon-tailor](https://www.linkedin.com/in/brendon-tailor-404144284)
+- Portfolio: [Brendontailor/portfolio](https://github.com/Brendontailor/portfolio)
 
 <p align="center">
-  <b>Building solutions, learning every day and turning ideas into real products.</b>
+  <b>Building products, learning every day and turning ideas into real systems.</b>
 </p>
